@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://xyz.vercel.app
+Host: https://xyz-beta-umber.vercel.app
 
 # Sitemaps
-Sitemap: https://xyz.vercel.app/sitemap.xml
+Sitemap: https://xyz-beta-umber.vercel.app/sitemap.xml

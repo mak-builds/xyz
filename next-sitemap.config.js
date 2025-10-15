@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: "https://xyz.vercel.app", // replace with your live domain
+  siteUrl: "https://xyz-beta-umber.vercel.app",
   generateRobotsTxt: true,
 };

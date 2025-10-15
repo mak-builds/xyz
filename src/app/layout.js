@@ -18,7 +18,7 @@ export const metadata = {
   openGraph: {
     title: "xyz",
     description: "The official website of xyz – a new kind of web app.",
-    url: "https://xyz.vercel.app", // your actual domain
+    url: "https://xyz-beta-umber.vercel.app",
     siteName: "xyz",
     images: [
       {
@@ -37,7 +37,7 @@ export const metadata = {
     description: "Discover xyz – a modern web experience built with Next.js.",
     images: ["/og-image.png"],
   },
-  metadataBase: new URL("https://xyz.vercel.app"),
+  metadataBase: new URL("https://xyz-beta-umber.vercel.app"),
 };
 
 export default function RootLayout({ children }) {
